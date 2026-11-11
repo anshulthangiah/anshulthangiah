@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anshul
 
-<!--
-**anshulthangiah/anshulthangiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a product builder. 
+The Product Builders who consistently make the best decisions are the ones who refuse to stop asking “why.” For me, that curiosity shows up in three ways:
 
-Here are some ideas to get you started:
+- Curiosity about human behavior = Empathy.You can't build a great product until you truly care about the person using it - their struggles, habits, and actual needs.
+- Curiosity about other perspectives = Humility. I actively look for ways I might be wrong, analyzing problems from different angles - whether by reviewing metrics, embedding myself on the customer support hotline, or stress-testing prototypes - to get it right for the user.
+- Curiosity about how things work = Relentless progress. This is the urge to uncover a simpler way to solve a problem. It drives me to refuse standard constraints and find a path forward, like taking a complex feature from idea to code myself when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills help you ship a product, but curiosity is what helps you build something people truly love.
+
+
+## Projects
+
+| Project | What it is | Try it |
+|---|---|---|
+| [brightwheel-observation-capture](https://github.com/anshulthangiah/brightwheel-observation-capture) | Observations a teacher can trust and a state can see. Product spec plus a working demo for early-learning software. | [Live demo](https://anshulthangiah.github.io/brightwheel-observation-capture/) |
+
+Every prototype is a scripted simulation built from public information, with a guided tour and a Builder mode that shows the gaps and fixes on the screens.
+
+I love connecting with new people, give me a shout on [LinkedIn!](https://www.linkedin.com/in/anshulthangiah)
+```
