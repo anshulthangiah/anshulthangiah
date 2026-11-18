@@ -15,6 +15,7 @@ Skills help you ship a product, but curiosity is what helps you build something 
 | Project | What it is | Try it |
 |---|---|---|
 | [brightwheel-observation-capture](https://github.com/anshulthangiah/brightwheel-observation-capture) | Observations a teacher can trust and a state can see. Product spec plus a working demo for early-learning software. | [Live demo](https://anshulthangiah.github.io/brightwheel-observation-capture/) |
+| [incident-investigator](https://github.com/anshulthangiah/incident-investigator) |  An AI agent that investigates "users say verification codes are late" the way an engineer would. Every claim in its report cites a check it ran, or it says "inconclusive". Tested on 22 scenarios with a real model.| [Live demo](https://anshulthangiah.github.io/incident-investigator/) |
 
 Every prototype is a scripted simulation built from public information, with a guided tour and a Builder mode that shows the gaps and fixes on the screens.
 
